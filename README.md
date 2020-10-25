@@ -2,9 +2,9 @@
 
 Life before Death
 
-Strength before weakness 
+Strength before Weakness 
 
-Journey before destination
+Journey before Destination
 
 
 ### 💾 Languages I know and use
