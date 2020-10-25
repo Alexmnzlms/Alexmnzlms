@@ -16,9 +16,6 @@ Journey before destination
 [<img align="left" alt="Java" height="30px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png"/>](https://en.wikipedia.org/wiki/Java_(programming_language))
 [<img align="left" alt="LaTeX" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png"/>](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
-
-And many more ...
-
   
 ### 🚀 Technologies I like and use
 
