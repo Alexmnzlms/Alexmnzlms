@@ -1,6 +1,10 @@
-### Life before Death
-### Strength before weakness 
-### Journey before destination
+### About me
+
+Life before Death
+
+Strength before weakness 
+
+Journey before destination
 
 :construction: Under construction :construction:
 
