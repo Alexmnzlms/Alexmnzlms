@@ -49,6 +49,8 @@ Here are some ideas to get you started:
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Alexmnzlms&show_icons=true&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmnzlms&langs_count=10&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/wakatime?username=Alexmnzlms&layout=compact">
+  
 </p>
 </details>
 
