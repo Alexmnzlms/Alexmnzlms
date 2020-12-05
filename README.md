@@ -47,7 +47,7 @@ Here are some ideas to get you started:
  <summary><b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Alexmnzlms9&show_icons=true&theme=dark&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Alexmnzlms&show_icons=true&theme=dark&line_height=27">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Alexmnzlms&theme=dark&langs_count=10">
 </p>
 </details>
