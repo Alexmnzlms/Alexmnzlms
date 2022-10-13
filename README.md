@@ -24,6 +24,7 @@ Journey before Destination
 [<img align="left" alt="Markdown" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1920px-Markdown-mark.svg.png"/>](https://en.wikipedia.org/wiki/Markdown)
 [<img align="left" alt="LaTeX" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/LaTeX_logo.svg/1920px-LaTeX_logo.svg.png"/>](https://en.wikipedia.org/wiki/LaTeX)
 [<img align="left" alt="Numpy" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"/>](https://es.wikipedia.org/wiki/NumPy)
+[<img align="left" alt="Keras" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/>](https://en.wikipedia.org/wiki/Keras)
 
 <br/>
 
